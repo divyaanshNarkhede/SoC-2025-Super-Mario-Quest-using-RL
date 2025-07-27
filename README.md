@@ -1,5 +1,6 @@
 # SoC-2025-Super-Mario-Quest-using-RL
-By Divyaansh Narkhede Roll Number : 24B0981
+By Divyaansh Narkhede 
+Roll Number : 24B0981
 # Reinforcement Learning Experiments
 
 This repository contains a series of Jupyter notebooks documenting experiments in reinforcement learning, covering fundamental Q-learning and more advanced Proximal Policy Optimization (PPO) applied to environments.
